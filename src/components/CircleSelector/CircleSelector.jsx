@@ -1,5 +1,5 @@
 import React from 'react';
-import './CircleSelector';
+import './CircleSelector.css';
 
 const CircleSelector = props => {
     const handleChange = event => {
